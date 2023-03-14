@@ -1,0 +1,119 @@
+body {
+    background-image: url(https://images3.alphacoders.com/941/thumb-1920-94135.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px); /* fallback for unsupported browsers */
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&family=Trocchi&display=swap');
+  h1 {
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-size: 44px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #08481e;
+    text-shadow: 6px 6px 5px rgba(0, 0, 0, 0.25);
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
+  h2 {
+    font-family: 'Trocchi', serif;
+    font-size: 30px;
+    color: #452E00;
+    margin-top: -15px;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+  .established {
+    font-family: 'Italiana', serif;
+    font-style: normal;
+    color: #452E00;
+    font-size: 45px;
+    margin-top: -1px;
+  }
+  
+  h1, h2, p {
+    text-align: center;
+  }
+  
+  .menu {
+    width: 80%;
+    background: rgba(193, 163, 103, 0.89);
+    box-shadow: 5px 8px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;  
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .topline {
+    height: 0px;
+    border: 2px solid #08481E;
+    width: 415px;
+    margin-top: -15px;
+  }
+  
+  .bottom-line {
+    height: 0px;
+    border: 1px solid #452E00;
+    width: 360px;
+    margin-top: 25px;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Trocchi&display=swap');
+  .item p {
+    font-family: 'Trocchi', serif;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 75%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 25%;
+  }
+  
+  /* FOOTER */
+  
+  footer {
+    font-size: 14px;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&display=swap');
+  .address {
+    margin-bottom: 5px;
+    font-family: 'Old Standard TT', serif;
+    color: #452E00;
+  }
+  a {
+    color: black;
+  }
+  @import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT&display=swap');
+  .website {
+    font-family: 'Old Standard TT', serif;
+    text-decoration: none;
+    color: #452E00;
+  }
+  
+  a:visited {
+    color:#452E00;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:active {
+    color: brown;
+  }
+  
